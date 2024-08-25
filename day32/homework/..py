@@ -1,11 +1,47 @@
-def even(name):
-    print(name[1])
-even("even")
+def idk(num):
+    if num % 2 == 0:
+        print(num,'even')
+    else :
+        print(num,'odd') 
+
+idk(8)
 
 
 
 
 
-def odd(name):
-    print(name[0])
-odd("odd")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
